@@ -7,4 +7,4 @@ This is a maven project using JDK-17 which demonstrates the BDD using cucumber f
 > The test reports will be generated in target/cucumber-report.html file
 
 # Video Reference
-For detailed video explanation of this project please visit my YouTube channel [CodeWithAnish](https://www.youtube.com/@CodeWithAnish)
+For detailed video explanation of this project please visit my YouTube channel [CodeWithAnish](https://youtu.be/T6y8I_Vcbks)
